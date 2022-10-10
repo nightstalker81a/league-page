@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "826504102233092096"; // your league ID
 export const leagueName = "Masters of Malt"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const dues = 5; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
